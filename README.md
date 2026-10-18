@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner Dinâmico (Capsule Render) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA,8A2BE2,4B0082&height=220&section=header&text=Olá,%20sou%20Anna%20Luiza%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedora%20Full%20Stack%20%7C%20Dados%20%26%20IA&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Header Banner com Gradiente e Animação Nativa -->
+  <img src="./assets/header.svg" width="100%" alt="Header Banner" />
 
   <!-- Texto Animado Digitado (Typing SVG) -->
   <a href="https://git.io/typing-svg">
@@ -168,7 +168,7 @@ const anna = {
   
   <br/><br/>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA,8A2BE2,4B0082&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 
   ⭐ *Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e conectar comigo.*
 </div>
