@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner Dinâmico -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:8A2BE2,100:4B0082&height=220&section=header&text=Anna%20Luiza%20Bezerra&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedora%20Full%20Stack%20%7C%20Dados%20%26%20IA&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Header Banner Exclusivo HD -->
+  <img src="https://raw.githubusercontent.com/AnnaBezerraDev/AnnaBezerraDev/main/assets/header.png" width="100%" alt="Anna Luiza Bezerra - Banner" />
 
   <!-- Texto Animado Digitado (Typing SVG) -->
   <a href="https://git.io/typing-svg">
@@ -167,8 +167,7 @@ const anna = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote de Programação" />
   
   <br/><br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:8A2BE2,100:4B0082&height=100&section=footer" width="100%" alt="Footer Banner" />
+
 
   ⭐ *Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e conectar comigo.*
 </div>
