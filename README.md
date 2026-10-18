@@ -19,11 +19,10 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   &nbsp;
-  <!-- Quando criar seu LinkedIn, basta colocar o seu link aqui: -->
-  <!-- <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/anna-luiza-bezerra-a9827b277" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp; -->
+  &nbsp;
   <a href="https://github.com/AnnaBezerraDev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
